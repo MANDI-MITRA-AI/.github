@@ -1,7 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>BudgetCart - Affordable & Trusted Marketplace</title>
+
 </head>
 <body>
 <h1>🛒 BudgetCart - Affordable & Trusted Marketplace</h1>
