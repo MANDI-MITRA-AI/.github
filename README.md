@@ -149,5 +149,6 @@ SOFTWARE.</code></pre>
 
 <hr>
 <p><em>Built with ❤️ for budget-conscious buyers and honest vendors worldwide.</em></p>
+<p><em>Credits: Samrat Sengupta(Team lead), Arka Pratim Das, Debjoy Sarkar.</em></p>
 </body>
 </html>
